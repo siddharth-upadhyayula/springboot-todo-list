@@ -30,7 +30,7 @@ public class Todo {
 	}
 
 	@Id
-	@Generated
+	@GeneratedValue
 	private int id;
 
 	private String username;
